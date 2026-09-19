@@ -1,0 +1,15 @@
+# app-ads.txt — BingWa Bit
+# Authorised digital sellers, per the IAB Tech Lab specification.
+# https://iabtechlab.com/ads-txt/
+#
+# This file MUST stay at the root of the domain, and that domain MUST be the one
+# listed as the developer website on the store page. Crawlers read the store
+# listing, take the website from it, and then fetch <that domain>/app-ads.txt.
+# Anywhere else and it is never found.
+#
+# Fields: <ad system domain>, <publisher account id>, <relationship>, <certification authority id>
+
+# Meta / Facebook Audience Network — via Voodoo.
+# The second field is the Facebook App ID for Cube Four. A Facebook Business
+# Manager ID is equally valid there; use whichever Voodoo asks for.
+facebook.com, 3973623782944974, RESELLER, c3e20eee3f780d68
