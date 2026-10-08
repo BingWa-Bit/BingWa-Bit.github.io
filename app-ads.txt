@@ -13,3 +13,6 @@
 # The second field is the Facebook App ID for Cube Four. A Facebook Business
 # Manager ID is equally valid there; use whichever Voodoo asks for.
 facebook.com, 3973623782944974, RESELLER, c3e20eee3f780d68
+
+# Tilt Ark: the second field is its Facebook App ID.
+facebook.com, 1773819423895018, RESELLER, c3e20eee3f780d68
