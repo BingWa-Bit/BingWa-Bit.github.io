@@ -1,4 +1,4 @@
-# app-ads.txt — BingWa Bit
+# app-ads.txt - BingWa Bit
 # Authorised digital sellers, per the IAB Tech Lab specification.
 # https://iabtechlab.com/ads-txt/
 #
@@ -9,9 +9,13 @@
 #
 # Fields: <ad system domain>, <publisher account id>, <relationship>, <certification authority id>
 
-# Meta / Facebook Audience Network — via Voodoo.
-# The second field is the Facebook App ID for Cube Four. A Facebook Business
-# Manager ID is equally valid there; use whichever Voodoo asks for.
+# Meta / Facebook Audience Network - via Voodoo.
+# The line Voodoo asks for: the BingWa Bit Facebook Business Manager ID
+# ("Identificador del portfolio comercial"). It covers every game of the studio.
+facebook.com, 2303560710216098, RESELLER, c3e20eee3f780d68
+
+# One line per game with its Facebook App ID (kept as well; extra lines do no harm).
+# Cube Four: the second field is its Facebook App ID.
 facebook.com, 3973623782944974, RESELLER, c3e20eee3f780d68
 
 # Tilt Ark: the second field is its Facebook App ID.
