@@ -16,3 +16,9 @@ facebook.com, 3973623782944974, RESELLER, c3e20eee3f780d68
 
 # Tilt Ark: the second field is its Facebook App ID.
 facebook.com, 1773819423895018, RESELLER, c3e20eee3f780d68
+
+# Duck Line: the second field is its Facebook App ID.
+facebook.com, 1082755571300573, RESELLER, c3e20eee3f780d68
+
+# Sorta Same: the second field is its Facebook App ID.
+facebook.com, 1624452382507497, RESELLER, c3e20eee3f780d68
