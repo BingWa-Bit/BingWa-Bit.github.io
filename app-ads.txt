@@ -29,3 +29,6 @@ facebook.com, 1624452382507497, RESELLER, c3e20eee3f780d68
 
 # FoxBridge: the second field is its Facebook App ID.
 facebook.com, 1055006420909178, RESELLER, c3e20eee3f780d68
+
+# Five Star Getaway: the second field is its Facebook App ID.
+facebook.com, 2016392672404957, RESELLER, c3e20eee3f780d68

@@ -163,6 +163,16 @@ footer p { margin: 6px 0; }
     box-shadow: var(--shadow);
 }
 
+/* A card with the game's app icon beside its name (the icon is decorative: the name says it all). */
+.card.has-icon { display: flex; align-items: center; gap: 18px; }
+.card-icon {
+    flex: none;
+    width: 64px;
+    height: 64px;
+    border-radius: 15px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.18);
+}
+
 .card strong { display: block; font-size: 19px; font-weight: 800; margin-bottom: 3px; color: var(--ink); }
 .card span   { color: var(--muted); font-size: 15px; }
 
