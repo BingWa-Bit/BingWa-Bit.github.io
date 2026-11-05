@@ -32,3 +32,6 @@ facebook.com, 1055006420909178, RESELLER, c3e20eee3f780d68
 
 # Five Star Getaway: the second field is its Facebook App ID.
 facebook.com, 2016392672404957, RESELLER, c3e20eee3f780d68
+
+# Swarm Bees: the second field is its Facebook App ID.
+facebook.com, 1138562288512018, RESELLER, c3e20eee3f780d68
