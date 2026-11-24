@@ -35,3 +35,9 @@ facebook.com, 2016392672404957, RESELLER, c3e20eee3f780d68
 
 # Swarm Bees: the second field is its Facebook App ID.
 facebook.com, 1138562288512018, RESELLER, c3e20eee3f780d68
+
+# Zombie Parade: the second field is its Facebook App ID.
+facebook.com, 1344028071085543, RESELLER, c3e20eee3f780d68
+
+# Carpet Cleaner: the second field is its Facebook App ID.
+facebook.com, 1615031343172684, RESELLER, c3e20eee3f780d68
